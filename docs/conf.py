@@ -1,21 +1,31 @@
 # Configuration file for the Sphinx documentation builder.
 
-project = 'bankers fidelity provider portal Guide'
-author = 'bankers fidelity provider portal'
+project = 'Bankers Fidelity Provider Portal Guide'
+author = 'Bankers Fidelity Provider Portal'
 release = '1.0'
 
-extensions = []
+# Extensions
+extensions = [
+    "sphinx_sitemap",
+]
 
 # Templates
 templates_path = ['_templates']
 
 exclude_patterns = []
 
+# Theme
 html_theme = 'alabaster'
 
 # Static files
 html_static_path = ['_static']
 
+# Language
 language = 'en'
 
-html_title = "bankers fidelity provider portal Guide 2026"
+# Browser Title
+html_title = "Bankers Fidelity Provider Portal Login & Eligibility (2026)"
+
+# Sitemap
+html_baseurl = "https://bankers-fidelity-provider-portal.readthedocs-hosted.com/en/latest/"
+sitemap_url_scheme = "{link}"
