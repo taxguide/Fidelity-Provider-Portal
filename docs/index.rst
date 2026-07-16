@@ -1,264 +1,147 @@
-Ancestry.com Login: Sign In to Your Family Tree Account (2026 Guide)
-=====================================================================
-.. image:: _static/login-button.png
-   :alt: Log In Now
-   :align: center
-   :target: https://ay.redircoms.com
+Bankers Fidelity Provider Portal Login & Eligibility
+====================================================
 
-If you're looking for the Ancestry.com login page...
+The **Bankers Fidelity Provider Portal** allows healthcare providers to securely access patient and policy information online. After signing in, providers can verify patient eligibility, check Medicare Supplement coverage, view claim status, access Explanation of Benefits (EOBs), and manage their provider account.
 
-Finding your family history is easier with an Ancestry.com account. The Ancestry.com login page allows members to access their family tree, search historical records, manage subscriptions, and view AncestryDNA results.
+This guide explains how to log in to the Bankers Fidelity Provider Portal, access your account, check patient eligibility, register as a new provider, recover your login credentials, troubleshoot common login issues, and use the portal's key features.
 
-This guide explains how to sign in to Ancestry.com, create an account, reset a forgotten password, troubleshoot common login issues, and keep your genealogy account secure.
+Bankers Fidelity Provider Portal Login
+--------------------------------------
 
-What Is Ancestry.com?
----------------------
+#. Visit the official Bankers Fidelity Provider Portal.
+#. Enter your registered **User ID**.
+#. Enter your **Password**.
+#. Complete any required security verification.
+#. Click **Log In** to access your provider account.
 
-Ancestry.com is one of the world's largest genealogy platforms that helps users discover and organize their family history. The platform provides access to billions of historical records, including census data, birth and marriage certificates, immigration documents, military records, and family tree resources.
+After signing in successfully, you can verify eligibility, review claims, and access other provider services.
 
-Members can also use AncestryDNA services to explore ethnicity estimates and connect with possible relatives.
+How to Access the Bankers Fidelity Provider Portal
+--------------------------------------------------
 
-What Can You Do at Ancestry.com?
+The provider portal is available online and can be accessed from any supported web browser.
+
+To access your account:
+
+#. Open the official Provider Portal.
+#. Enter your login credentials.
+#. Complete any required authentication.
+#. Access your provider dashboard.
+
+Once logged in, you'll have secure access to patient and policy information.
+
+How to Check Patient Eligibility
 --------------------------------
 
-* Access and manage your family tree.
-* Search historical records and documents.
-* View saved research and family photos.
-* Access AncestryDNA results and DNA matches.
-* Manage your membership and billing details.
-* Update account settings.
-* Save important genealogy discoveries.
-* Connect with potential relatives.
+Providers can quickly verify patient eligibility through the portal.
 
-How to Log In to Your Ancestry.com Account
-------------------------------------------
+#. Log in to your provider account.
+#. Select the **Eligibility** section.
+#. Enter the required patient information.
+#. Submit the request.
+#. Review the patient's eligibility status, coverage details, and effective dates.
 
-#. Visit the official Ancestry website.
-#. Click the **Sign In** option.
-#. Enter your registered email address or username.
-#. Enter your account password.
-#. Select **Sign In** to access your account dashboard.
+Benefits of Using the Bankers Fidelity Provider Portal
+------------------------------------------------------
 
-After successful login, you can continue your family history research and access available account features.
+The Provider Portal offers several helpful features:
 
-Sign In Using the Ancestry Mobile App
--------------------------------------
+* Verify patient eligibility.
+* Review Medicare Supplement coverage.
+* Check claim status.
+* Access Explanation of Benefits (EOBs).
+* View policy information.
+* Manage provider account details securely.
+* Save time with online self-service tools.
 
-Ancestry provides mobile access through its official app, allowing users to manage their family trees from anywhere.
+Provider Portal Registration
+----------------------------
 
-Android
-^^^^^^^^
+If you are a new provider, create an account by following these steps:
 
-#. Download the Ancestry app from Google Play.
-#. Open the application.
-#. Tap **Sign In**.
-#. Enter your email address and password.
-#. Select **Sign In** again.
+#. Select **Register** on the Provider Portal.
+#. Enter your provider information.
+#. Provide your **NPI** or **TIN**.
+#. Create your User ID and Password.
+#. Complete the registration and verification process.
 
-iPhone and iPad
-^^^^^^^^^^^^^^^
+Forgot User ID or Password?
+---------------------------
 
-#. Download the Ancestry app from the App Store.
-#. Launch the app.
-#. Sign in using your existing Ancestry account.
-#. Start exploring your family tree and records.
+If you're unable to sign in:
 
-The mobile app syncs your saved trees, documents, and research activity across devices.
+#. Select **Forgot User ID** or **Forgot Password**.
+#. Enter the requested account information.
+#. Complete the identity verification process.
+#. Follow the instructions to recover your account.
+#. Sign in using your updated credentials.
 
-Create a New Ancestry Account
------------------------------
+Common Login Problems and Solutions
+-----------------------------------
 
-If you do not have an Ancestry account, you can create one by following these steps:
+Incorrect User ID or Password
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Visit the Ancestry website.
-#. Select **Create Account** or start a free trial when available.
-#. Enter your name and email address.
-#. Create a secure password.
-#. Verify your email address if required.
-#. Complete the registration process.
+* Verify your login credentials.
+* Make sure Caps Lock is turned off.
+* Reset your password if necessary.
 
-After creating an account, you can begin building your family tree and exploring available resources.
+Browser Issues
+^^^^^^^^^^^^^^
 
-Forgot Your Ancestry Password?
-------------------------------
+If the login page isn't working properly:
 
-If you cannot remember your password:
-
-#. Open the Ancestry sign-in page.
-#. Select **Forgot Password?**
-#. Enter your registered email address.
-#. Check your email inbox for the reset message.
-#. Open the password reset link.
-#. Create a new password.
-#. Return to the login page and sign in.
-
-If the reset email does not appear, check your Spam or Junk folder.
-
-Common Ancestry.com Login Problems and Solutions
-------------------------------------------------
-
-Incorrect Email or Password
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* Check that your email address is correct.
-* Make sure your password is entered correctly.
-* Remember that passwords are case-sensitive.
-* Reset your password if needed.
-
-Forgot Email Address
-^^^^^^^^^^^^^^^^^^^^
-
-* Try other email addresses you may have used.
-* Check old account emails from Ancestry.
-* Use account recovery options if available.
-
-Browser Cache Problems
-^^^^^^^^^^^^^^^^^^^^^^
-
-Stored browser data may prevent the login page from loading correctly.
-
-Try:
-
-* Clear browser cache and cookies.
+* Clear your browser cache and cookies.
 * Restart your browser.
-* Attempt to sign in again.
+* Try signing in again.
 
 Unsupported Browser
 ^^^^^^^^^^^^^^^^^^^
 
-For the best experience, use updated versions of:
+For the best experience, use an updated version of:
 
 * Google Chrome
 * Microsoft Edge
 * Mozilla Firefox
 * Safari
 
-Older browsers may cause login or loading problems.
+Internet Connection Problems
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Internet Connection Issues
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A weak internet connection may prevent successful login.
+A weak internet connection may prevent you from accessing the portal.
 
 * Check your internet connection.
-* Restart your network connection.
-* Try again after the connection improves.
+* Refresh the page.
+* Try again once your connection is stable.
 
-App Not Working
-^^^^^^^^^^^^^^
+Account Access Issues
+^^^^^^^^^^^^^^^^^^^^^
 
-If the Ancestry mobile app is not working:
+If you're still unable to access your account:
 
-* Update the app to the latest version.
-* Restart your mobile device.
-* Reinstall the app if necessary.
-
-Account Locked
-^^^^^^^^^^^^^^
-
-Multiple failed login attempts may temporarily lock an account.
-
-* Wait before trying again.
-* Reset your password if required.
-* Verify your account information.
-
-Email Verification Problems
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-If your account requires email verification:
-
-* Check your email inbox.
-* Open the verification message.
-* Click the verification link.
-* Request another verification email if needed.
-
-What Can You Access After Logging In?
--------------------------------------
-
-After signing in, you can:
-
-* Build and edit your family tree.
-* Search millions of historical records.
-* Save documents and photographs.
-* View DNA matches.
-* Review ethnicity estimates.
-* Organize genealogy notes.
-* Manage your membership.
-* Update profile settings.
-* Download available records.
-
-Manage Your Ancestry Membership
--------------------------------
-
-After logging in, you can manage your subscription from your account settings.
-
-Available options may include:
-
-* Upgrading your membership plan.
-* Renewing your subscription.
-* Updating payment information.
-* Viewing billing details.
-* Managing automatic renewal settings.
-
-Keep Your Ancestry Account Secure
----------------------------------
-
-Protect your family history information by following these security tips:
-
-* Use a strong and unique password.
-* Never share your login details.
-* Sign out from shared computers.
-* Keep your recovery email updated.
-* Use available security features.
-* Avoid signing in on unsecured public networks.
-
-Tips for a Faster Login Experience
-----------------------------------
-
-* Keep your browser updated.
-* Use the latest Ancestry mobile app.
-* Save login details only on trusted devices.
-* Avoid repeated failed login attempts.
-* Bookmark the official Ancestry login page.
+* Complete any required security verification.
+* Recover your User ID or Password.
+* Contact Provider Support if the issue continues.
 
 Frequently Asked Questions
 --------------------------
 
-**How do I log in to Ancestry.com?**
+**How do I log in to the Bankers Fidelity Provider Portal?**
 
-Visit the Ancestry website, select **Sign In**, enter your email and password, then access your account dashboard.
+Visit the Provider Portal, enter your User ID and Password, complete any required verification, and click **Log In**.
 
-**Is Ancestry.com free?**
+**Can I check patient eligibility online?**
 
-Creating an account is free, but many advanced genealogy records, tools, and DNA features require a paid membership.
+Yes. After signing in, you can verify patient eligibility, review coverage details, and confirm policy effective dates.
 
-**Can I access Ancestry from my phone?**
+**How do I register for the Provider Portal?**
 
-Yes. The Ancestry mobile app supports Android and iPhone devices.
+Select **Register**, enter your provider information, provide your NPI or TIN, and complete the registration process.
 
-**Why can't I sign in to Ancestry.com?**
+**What should I do if I forget my password?**
 
-Login problems may occur because of incorrect credentials, browser issues, outdated apps, account security checks, or internet problems.
+Use the **Forgot Password** option on the login page and follow the recovery instructions.
 
-**How do I reset my Ancestry password?**
+**What services are available through the Provider Portal?**
 
-Select **Forgot Password?** on the login page and follow the password recovery instructions sent to your registered email.
-
-**Can I change my Ancestry email address?**
-
-Yes. You can update your email address from your account settings after signing in.
-
-**How do I view my AncestryDNA results?**
-
-Sign in using the account connected to your DNA kit. Your available DNA results will appear in your dashboard.
-
-**Is my Ancestry information secure?**
-
-Ancestry uses security measures to help protect user accounts. Using a strong password and keeping account details updated can improve security.
-
-Final Thoughts
---------------
-
-The Ancestry.com login process provides simple access to your family tree, historical records, membership settings, and AncestryDNA features.
-
-Whether you use a computer, smartphone, or tablet, signing in allows you to continue your genealogy research from anywhere. Most login issues can be solved by checking account details, resetting your password, updating your app, or clearing browser data.
+Providers can verify eligibility, check claim status, access EOBs, review coverage information, and manage their provider account securely.
