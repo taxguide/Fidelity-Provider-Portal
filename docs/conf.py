@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
-project = 'Ancestry Login Guide'
-author = 'Ancestry Guide'
+project = 'bankers fidelity provider portal Guide'
+author = 'bankers fidelity provider portal'
 release = '1.0'
 
 extensions = []
@@ -18,4 +18,4 @@ html_static_path = ['_static']
 
 language = 'en'
 
-html_title = "Ancestry.com Login Guide 2026"
+html_title = "bankers fidelity provider portal Guide 2026"
