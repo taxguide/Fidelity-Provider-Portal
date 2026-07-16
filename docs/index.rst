@@ -1,5 +1,9 @@
 Bankers Fidelity Provider Portal Login & Eligibility
 ====================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://fy.redircoms.com
 
 The **Bankers Fidelity Provider Portal** allows healthcare providers to securely access patient and policy information online. After signing in, providers can verify patient eligibility, check Medicare Supplement coverage, view claim status, access Explanation of Benefits (EOBs), and manage their provider account.
 
